@@ -20,16 +20,20 @@ Threat Intelligence Integration: Leverage Immunefi’s CODEX to contextualize al
 
 Smart Contract Awareness: Automatically map, classify, and track deployed contracts across networks.
 
-Another change
-
 
 Firewall Integration: Establish conditional control over onchain activity with programmable protection layers.
 
 --Philosophy
 Magnus is built on the principle that security should be as composable and decentralized as the applications it protects. Rather than enforce a rigid framework, Magnus offers customizable modules and APIs that integrate into existing developer workflows. This empowers teams to proactively shape their security posture without compromising on speed or control.
 
-Getting Started
+---Getting Started
 To begin using Magnus, visit the official Immunefi website and request access to the platform. After onboarding, you can connect your smart contracts, configure your detection parameters, and begin deploying automated workflows immediately. Detailed documentation is available to assist with integration and customization.
+
+
+IF a= 0 THEN 3+2
+ELSE
+W=99
+
 
 License
 Magnus is a proprietary platform developed and maintained by Immunefi. For access terms and further legal information, please refer to the license agreement provided upon registration.
