@@ -20,7 +20,7 @@ Threat Intelligence Integration: Leverage Immunefi’s CODEX to contextualize al
 
 Smart Contract Awareness: Automatically map, classify, and track deployed contracts across networks.
 
-
+bbb
 Firewall Integration: Establish conditional control over onchain activity with programmable protection layers.
 
 --Philosophy
