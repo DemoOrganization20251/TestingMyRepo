@@ -22,16 +22,16 @@ Smart Contract Awareness: Automatically map, classify, and track deployed contra
 
 A+B==135
 If A then B 
-ELSE W
+
 
 Firewall Integration: Establish conditional control over onchain activity with programmable protection layers.
 
 --Philosophy
-Magnus is built on the principle that security should be as composable and decentralized as the applications it protects. Rather than enforce a rigid framework, Magnus offers customizable modules and APIs that integrate into existing developer workflows. This empowers teams to proactively shape their security posture without compromising on speed or control.
+--Magnus is built on the principle that security should be as composable and decentralized as the applications it protects. Rather than enforce a rigid framework, Magnus offers customizable modules and --APIs that integrate into existing developer workflows. This empowers teams to proactively shape their security posture without compromising on speed or control.
 
 ---Getting Started
 To begin using Magnus, visit the official Immunefi website and request access to the platform. After onboarding, you can connect your smart contracts, configure your detection parameters, and begin deploying automated workflows immediately. Detailed documentation is available to assist with integration and customization.
-
+Commenting llines
 
 IF a= 0 THEN 3+2+100-23
 ELSE
